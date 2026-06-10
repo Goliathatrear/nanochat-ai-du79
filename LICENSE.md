@@ -1,4 +1,4 @@
-# 
+# Smart nanochat templates. Featuring memory-management and privacy-preserving — optimized for maximum performance and efficiency.
 
 
 
